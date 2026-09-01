@@ -1,4 +1,4 @@
-# Name: Sung Tse Wu
+# Name: Sung-Tse Wu (Jay)
 
 ## Dataset
 
